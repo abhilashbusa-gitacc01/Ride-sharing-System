@@ -33,7 +33,7 @@ Distance: 12.0 km
 Fare: ₹120.0
 
 ## How to Run :
- # Terminal
+ # in Terminal
   1. clone the repo
    ..bash
    gitclone https://github.com/<abhilashbusa-gitacc01>/Ride-Sharing-System.git
