@@ -48,3 +48,8 @@ Fare: ₹120.0
   - click on 'Run'
   - it will compile and run the code if oracle java development kit is installed on your pc
   - now in 'terminal' give input and press 'ctrl+enter'
+
+## Author 
+. Developed By Abhilash Busa
+. Email: abhilashbusa442@gmail.com
+. GitHub: abhilashbusa-gitacc01
