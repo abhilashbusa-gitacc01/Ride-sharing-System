@@ -8,7 +8,7 @@ A simple java  **Ride Sharing System**  with
 The system allows a user to book either a **Bike** or a **Car** ride, enter the distace, and get the calculated fare.
 
 ---
-Features :
+# Features :
 - Enter ride type ('bike' or 'car')
 - Enter distance traveled
 - Calculate fare:
@@ -20,7 +20,7 @@ Features :
 
 ---
 
-Example Run:
+# Example Run:
 
 ##Input 
 bike
@@ -32,7 +32,7 @@ Vehicle No: AP39AB1234
 Distance: 12.0 km
 Fare: ₹120.0
 
-##How to Run :
+## How to Run :
  # in Terminal
   1. clone the repo
    ..bash
@@ -42,7 +42,7 @@ Fare: ₹120.0
    javac Ridde-sharing-Syatem.java
    java Ride-Sharing-System
 
- #Manually
+ # Manually
   - open your vscode/byteXL-nimbus or other platforms
   - copy & paste this code
   - click on 'Run'
