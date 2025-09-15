@@ -44,7 +44,7 @@ class BikeRide extends Ride {
 
     @Override
     public double calculateFare() {
-        return distance * 10; // fare = distance × 10
+        return distance * 10; 
     }
 }
 
@@ -55,7 +55,7 @@ class CarRide extends Ride {
 
     @Override
     public double calculateFare() {
-        return distance * 20; // fare = distance × 20
+        return distance * 20; 
     }
 }
 
